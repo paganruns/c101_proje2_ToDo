@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\bin\Debug\net6.0\c101_proje2_ToDo.exe
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\bin\Debug\net6.0\c101_proje2_ToDo.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\bin\Debug\net6.0\c101_proje2_ToDo.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\bin\Debug\net6.0\c101_proje2_ToDo.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\bin\Debug\net6.0\c101_proje2_ToDo.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\c101_proje2_ToDo.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\c101_proje2_ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\c101_proje2_ToDo.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\c101_proje2_ToDo.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\c101_proje2_ToDo.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\c101_proje2_ToDo.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\refint\c101_proje2_ToDo.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\c101_proje2_ToDo.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\c101_proje2_ToDo.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje2_ToDo\obj\Debug\net6.0\ref\c101_proje2_ToDo.dll
